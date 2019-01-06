@@ -128,14 +128,26 @@ h2{
 }
 /* *****Estilo de la lista5**** */
 
-.lista5 li{
-	
-	display:inline-block;
-	padding:0.5% 0;
-	margin: 0;
-	width:10%;
+.lista5 li{	
+	float:left;
+	margin-right: 2%;	
+}
+/* *****Estilo de la lista6**** */
+.lista6{
+	width:100%;
 	text-align: center;
+}
+.lista6 li{
+	background-color: white;
+	border:3px solid black;
+	border-radius: 0.3em;
+	display:inline;
+	padding:0.5em 0.3em 0.3em;
+	margin-right: 1%;
+	width:5%;
+	text-align: center;
+	font-size:200%;
+	
 
 }
-
 
