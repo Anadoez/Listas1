@@ -134,7 +134,6 @@ h2{
 }
 /* *****Estilo de la lista6**** */
 .lista6{
-	width:100%;
 	text-align: center;
 }
 .lista6 li{
@@ -142,12 +141,10 @@ h2{
 	border:3px solid black;
 	border-radius: 0.3em;
 	display:inline;
-	padding:0.5em 0.3em 0.3em;
-	margin-right: 1%;
-	width:5%;
+	padding:0.5em 0.5em 0.3em;
+	margin-right: 1em;
 	text-align: center;
 	font-size:200%;
-	
-
+	line-height: 250%;
 }
 
