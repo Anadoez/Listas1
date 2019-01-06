@@ -48,10 +48,31 @@
 /* *********Estilos generales** */
 body{
 	background-color: #D3D3D3;
+	font-family: sans-serif;
 }
 ul{
 	list-style-type: none;
 }
+h2{
+	clear:both;
+}
+/* *****Estilo de la lista1**** */
+.lista1 li{
+	background-color: #5ACE77;
+	color:#5E0272;
+	border: 5px dashed #954A95;
+	float:left;
+	width:10%;
+	padding:0.5% 0%;
+	font-size: 110%;
+	font-weight: bold;
+	margin-right:1%;
+	text-align:center;
+}
 
+/* *****Estilo de la lista4**** */
+.lista4 li{
+	background-color: #3366CC;
 
+}
 
